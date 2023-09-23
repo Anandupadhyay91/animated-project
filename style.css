@@ -72,6 +72,7 @@ html, body{
     font-family: PP mori;
     margin-top: 8vw;
     margin-left: 4vw;
+    whitespace: nowrap;
 }
 
 .page1 h2{
